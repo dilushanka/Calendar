@@ -12,10 +12,10 @@
             2025: {
                 0: [ // January
                     { day: 1, name: { si: "අලුත් අවුරුද්ද", en: "New Year's Day" } },
-                    { day: 15, name: { si: "තමිල් තෛපොංගල් දිනය", en: "Thai Pongal Day" } }
+                    { day: 15, name: { si: "තෛපොංගල් දිනය", en: "Thai Pongal Day" } }
                 ],
                 1: [ // February
-                    { day: 4, name: { si: "ජාතික දිනය", en: "National Day" } }
+                    { day: 4, name: { si: "නිදහස් දිනය", en: "National Day" } }
                 ],
                 2: [ // March
                     { day: 13, name: { si: "මහා ශිවරාත්රී දිනය", en: "Maha Shivaratri Day" } }
@@ -23,7 +23,7 @@
                 3: [ // April
                     { day: 13, name: { si: "බක් පෝය", en: "Bak Poya Day" } },
                     { day: 14, name: { si: "බක් පෝය අතුරු නිවාඩු", en: "Additional Bak Poya Holiday" } },
-                    { day: 17, name: { si: "බුදුන් වහන්සේගේ උපත, වෙනම්වීම හා පරිනිර්වාණය", en: "Sinhala and Tamil New Year Eve" } },
+                    { day: 17, name: { si: "සිංහල හා හින්දු අලුත් අවුරුදු උදාව", en: "Sinhala and Tamil New Year Eve" } },
                     { day: 18, name: { si: "සිංහල හා හින්දු අලුත් අවුරුද්ද", en: "Sinhala and Tamil New Year Day" } }
                 ],
                 4: [ // May
@@ -36,13 +36,13 @@
                 ],
                 6: [ // July
                     { day: 11, name: { si: "ඇසළ පෝය", en: "Esala Poya Day" } },
-                    { day: 31, name: { si: "ඉස්ලාමීය නබිවරයාගේ උපත", en: "Hajj Festival Day" } }
+                    { day: 31, name: { si: "හජ්ජි දිනය", en: "Hajj Festival Day" } }
                 ],
                 7: [ // August
                     { day: 10, name: { si: "නිකිණි පෝය", en: "Nikini Poya Day" } }
                 ],
                 8: [ // September
-                    { day: 8, name: { si: "බින්නරා පෝය", en: "Binara Poya Day" } }
+                    { day: 8, name: { si: "බිනර පෝය", en: "Binara Poya Day" } }
                 ],
                 9: [ // October
                     { day: 8, name: { si: "වප් පෝය", en: "Vap Poya Day" } },
@@ -53,22 +53,22 @@
                 ],
                 11: [ // December
                     { day: 7, name: { si: "උඳුවප් පෝය", en: "Unduvap Poya Day" } },
-                    { day: 25, name: { si: "උර්තුමය නත්තල් දිනය", en: "Christmas Day" } }
+                    { day: 25, name: { si: "නත්තල් දිනය", en: "Christmas Day" } }
                 ]
             },
             // Add more years as needed (2026 to 2040)
             2026: {
                 0: [ // January
                     { day: 1, name: { si: "අලුත් අවුරුද්ද", en: "New Year's Day" } },
-                    { day: 15, name: { si: "තමිල් තෛපොංගල් දිනය", en: "Thai Pongal Day" } }
+                    { day: 15, name: { si: "තෛපොංගල් දිනය", en: "Thai Pongal Day" } }
                 ],
                 1: [ // February
-                    { day: 4, name: { si: "ජාතික දිනය", en: "National Day" } }
+                    { day: 4, name: { si: "නිදහස් දිනය", en: "National Day" } }
                 ],
                 3: [ // April
                     { day: 13, name: { si: "බක් පෝය", en: "Bak Poya Day" } },
                     { day: 14, name: { si: "බක් පෝය අතුරු නිවාඩු", en: "Additional Bak Poya Holiday" } },
-                    { day: 17, name: { si: "බුදුන් වහන්සේගේ උපත, වෙනම්වීම හා පරිනිර්වාණය", en: "Sinhala and Tamil New Year Eve" } },
+                    { day: 17, name: { si: "සිංහල හා හින්දු අලුත් අවුරුදු උදාව", en: "Sinhala and Tamil New Year Eve" } },
                     { day: 18, name: { si: "සිංහල හා හින්දු අලුත් අවුරුද්ද", en: "Sinhala and Tamil New Year Day" } }
                 ]
             }
